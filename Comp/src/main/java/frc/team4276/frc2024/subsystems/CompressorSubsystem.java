@@ -6,7 +6,7 @@ import edu.wpi.first.wpilibj2.command.SubsystemBase;
 
 public class CompressorSubsystem extends SubsystemBase {
     private Compressor m_compressor;
-    public compressorSubsystem(Compressor m_Compressor){
+    public CompressorSubsystem(Compressor m_Compressor){
         m_Compressor.disable();
         m_compressor = m_Compressor;
     }

@@ -4,8 +4,6 @@
 
 package frc.team4276.frc2024;
 
-import com.revrobotics.CANSparkBase.IdleMode;
-
 
 public final class Constants {
     public static final class CompressorConstants{
